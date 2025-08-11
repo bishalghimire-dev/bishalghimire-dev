@@ -6,7 +6,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bishalghimire-dev.bishalghimire-dev" alt="visitor badge" />
 </div>
 
-<img align="right" height="200" src="me.png" alt="Your Name" />
+<img align="right" height="200" src="me.jpg" alt="Your Name" />
 
 ###
 
